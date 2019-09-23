@@ -1,0 +1,6 @@
+echo "# I-dont-speak-russian" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xscape261/I-dont-speak-russian.git
+git push -u origin master
